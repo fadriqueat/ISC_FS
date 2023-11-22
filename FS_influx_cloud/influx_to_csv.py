@@ -22,8 +22,8 @@ import time as t
 from colorama import Fore, Back, Style
 
 # cloud_org = os.environ.get('CLOUD_ORG')
-cloud_org = '44b2810a938c40f7'
-cloud_token = 'Ncw6Rq19Xt1FXg3JMLS8vqToZT6RON6yRM0JmiBIAx8pZTs5RBth38iPFHu0Wfw6C71sqVEGag_IKcHOx1xyow=='
+cloud_org = ''
+cloud_token = ''
 cloud_url = 'https://us-east-1-1.aws.cloud2.influxdata.com'
 cloud_url_buckets = 'https://us-east-1-1.aws.cloud2.influxdata.com/api/v2/buckets'
 
