@@ -8,5 +8,5 @@
 
 ## FS_influx_cloud
   Carpeta que contiene los scripts para:
-    - sincronizar datos de Influx OSS (En local) a Influx Cloud.
-    - permitir a los miembros del equipo facil acceso a los datos descargandolos como un .csv.
+  - sincronizar datos de Influx OSS (En local) a Influx Cloud.
+  - permitir a los miembros del equipo facil acceso a los datos descargandolos como un .csv.
