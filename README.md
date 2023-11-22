@@ -4,6 +4,10 @@
 EL EQUIPO Está formado por más de 70 estudiantes, mayoritariamente de la Escuela de Ingeniería ICAI, contando también con miembros de ICADE. Nuestro objetivo es concebir, diseñar, fabricar y competir con un monoplaza eléctrico.
 
 
+[2022](#section-1)
+
+
+
 ## FS_data_rx
   Carpeta que contiene los scripts en python para:
   - recibir datos del coche a tiempo real, y guardarlos en una base de datos (InfluxDB).
@@ -21,8 +25,8 @@ EL EQUIPO Está formado por más de 70 estudiantes, mayoritariamente de la Escue
 - Last update: 22/11/2023
 
 
-
 # 2022
+<a name="section-1"></a>
 
 Visualización a tiempo real utilizando Python, InfluxDB y Grafana.
 
