@@ -2,8 +2,8 @@ from influxdb_client import InfluxDBClient, Point
 from influxdb_client.client.write_api import SYNCHRONOUS
 
 bucket = "2023-09-24 14:51:40 |> FS-canto_acceleration_2-marco"
-org = "b2b03940375e28ac"
-token = "sNZJlQsv2KhY28xPDZBmt2HbgGtwU5AE4vUjQsks9WPm3o0g_UreLkxNVgMHNotIqUMHCcgAyN4llUvdXs4QtA=="
+org = ""
+token = ""
 
 client = InfluxDBClient(url="http://localhost:8086", token=token)
 
