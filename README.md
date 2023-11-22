@@ -5,6 +5,10 @@ EL EQUIPO Está formado por más de 70 estudiantes, mayoritariamente de la Escue
 
 
 [2022](#section-1)
+[2023](#section-2)
+[IMAGES](#section-3)
+
+
 
 
 
@@ -34,5 +38,10 @@ El año anterior, para la elaboración de este programa, empleé con destreza el
 
 
 # 2023
+<a name="section-2"></a> 2023
 
 Por añadir...
+
+
+# 2022-2023
+<a name="section-3"></a> Imagenes
