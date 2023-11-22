@@ -26,7 +26,7 @@ EL EQUIPO Está formado por más de 70 estudiantes, mayoritariamente de la Escue
 
 
 # 2022
-<a name="section-1"></a>
+<a name="section-1"></a> 2022
 
 Visualización a tiempo real utilizando Python, InfluxDB y Grafana.
 
