@@ -14,5 +14,6 @@
 
 
 
-API Tokens and org variables have been removed for obvious reasons
-Last update: 22/11/2023
+## Notas
+- API Tokens and org variables have been removed for obvious reasons.
+- Last update: 22/11/2023
