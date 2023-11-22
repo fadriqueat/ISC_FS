@@ -10,3 +10,8 @@
   Carpeta que contiene los scripts para:
   - sincronizar datos de Influx OSS (En local) a Influx Cloud.
   - permitir a los miembros del equipo facil acceso a los datos descargandolos como un .csv.
+
+
+
+* API Tokens and org variables have been removed for obvious reasons
+Last update: 22/11/2023
