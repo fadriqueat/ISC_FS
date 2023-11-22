@@ -33,8 +33,8 @@ from matplotlib.backends.backend_tkagg import (FigureCanvasTkAgg, NavigationTool
 
 
 # Define InfluxDB credentials and URLs
-cloud_org = '44b2810a938c40f7'
-cloud_token = 'Ncw6Rq19Xt1FXg3JMLS8vqToZT6RON6yRM0JmiBIAx8pZTs5RBth38iPFHu0Wfw6C71sqVEGag_IKcHOx1xyow=='
+cloud_org = ''
+cloud_token = ''
 cloud_url = 'https://us-east-1-1.aws.cloud2.influxdata.com'
 version = '1.4.2'
 
