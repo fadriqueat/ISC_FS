@@ -43,7 +43,7 @@ El año anterior, para la elaboración de este programa, empleé con destreza el
 Por añadir...
 
 
-# 2022-2023
+# Imagenes de 2022-2023
 <a name="section-3"></a> Imagenes
 
 ### Evento en el Jarama
