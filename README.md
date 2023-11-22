@@ -45,3 +45,9 @@ Por añadir...
 
 # 2022-2023
 <a name="section-3"></a> Imagenes
+
+Evento en el Jarama
+![271650745-c974fee6-1a24-46b7-beee-b1f208b83c11](https://github.com/fadriqueat/ISC_FS/assets/74105814/6e8e3fcd-6bb5-4860-a9fb-a42f81c8a625)
+
+Fases iniciales del dashboard en Grafana
+![271650633-55d7d4c5-04e8-46f9-bdad-d5ed39385c7c](https://github.com/fadriqueat/ISC_FS/assets/74105814/6ee0268f-58a7-4340-b217-8717ff4f6926)
